@@ -1,0 +1,51 @@
+[
+  {
+    "name":"OPPO Reno 12 series",
+    "price":"62606.03",
+    "description":" Oppo Reno 12 series will feature a 6.7-inch FHD+ 120Hz flexible AMOLED display. Oppo has also confirmed the “Quad-Micro Curved Infinite View” design for the display, which the company claims, possesses minimal side bezels to achieve a remarkable 93.5 per cent screen-to-body ratio",
+    "ratings":"8.9",
+    "images":["String","adsda"],
+    "category":"Mobile phone",
+    "Seller":"Amazon",
+    "Stock":"5",
+    "numOfreview":"String",
+    "createAt":"Date"
+  },
+  {
+    "name": "MacBook Pro 16-inch",
+    "price": "239999.00",
+    "description": "The MacBook Pro 16-inch features an M1 Pro chip, 16GB RAM, 1TB SSD, and a stunning Retina display. Ideal for professionals seeking high performance.",
+    "ratings": "9.6",
+    "images": ["String", "example_image1.jpg"],
+    "category": "Laptop",
+    "Seller": "Apple Store",
+    "Stock": "5",
+    "numOfreview": "String",
+    "createAt": "Date"
+  },{
+    "name": "Sony WH-1000XM4",
+    "price": "29999.00",
+    "description": "Sony WH-1000XM4 wireless noise-canceling headphones offer superior sound quality and comfort, with up to 30 hours of battery life.",
+    "ratings": "9.3",
+    "images": ["String", "example_image2.jpg"],
+    "category": "Accessories",
+    "Seller": "Sony Store",
+    "Stock": "25",
+    "numOfreview": "String",
+    "createAt": "Date"
+  },
+  {
+    "name": "Nike Air Zoom Pegasus 39",
+    "price": "9999.00",
+    "description": "Nike Air Zoom Pegasus 39 offers a comfortable and responsive ride with lightweight cushioning, making it perfect for runners of all levels.",
+    "ratings": "8.9",
+    "images": ["String", "example_image3.jpg"],
+    "category": "Shoes",
+    "Seller": "Nike Store",
+    "Stock": "30",
+    "numOfreview": "String",
+    "createAt": "Date"
+  }
+  
+  
+]
